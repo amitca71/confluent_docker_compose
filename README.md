@@ -1,2 +1,3 @@
 # confluent_docker_compose
-adding 
+install docker and docker-compose
+execute from command line: docker-compose up -d
